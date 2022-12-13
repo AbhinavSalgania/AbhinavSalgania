@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavsalgania&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavsalgania" /> </p>
+![personal-project](https://user-images.githubusercontent.com/60488689/207228187-c982282a-ea18-487c-aa9a-75cf331e9bfc.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
